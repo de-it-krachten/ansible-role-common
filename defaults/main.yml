@@ -1,0 +1,6 @@
+---
+
+custom_facts:
+  - users
+  - groups
+custom_facts_additional: []
