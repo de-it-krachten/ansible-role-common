@@ -7,3 +7,6 @@ custom_facts:
 
 # customer facts to distribute
 custom_facts_additional: []
+
+# Run setup when facts change
+custom_facts_setup: true
