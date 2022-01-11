@@ -23,8 +23,6 @@ Supported platforms
 Role Variables
 --------------
 <pre><code>
-
-
 # default facts to distribute 
 custom_facts:
   - users
@@ -39,7 +37,6 @@ Example Playbook
 ----------------
 
 <pre><code>
-
 - name: Converge
   hosts: all
   tasks:
