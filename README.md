@@ -3,8 +3,7 @@
 
 # ansible-role-common
 
-Collection of smaller generic tasklists 
-
+Collection of smaller generic tasklist
 
 Platforms
 --------------
@@ -13,10 +12,12 @@ Supported platforms
 
 - CentOS 7
 - CentOS 8
-- Ubuntu 18.04 LTS
-- Ubuntu 20.04 LTS
+- RockyLinux 8
+- AlmaLinux 8
 - Debian 10 (Buster)
 - Debian 11 (Bullseye)
+- Ubuntu 18.04 LTS
+- Ubuntu 20.04 LTS
 
 
 
@@ -30,6 +31,9 @@ custom_facts:
 
 # customer facts to distribute
 custom_facts_additional: []
+
+# Run setup when facts change
+custom_facts_setup: true
 </pre></code>
 
 
@@ -37,11 +41,11 @@ Example Playbook
 ----------------
 
 <pre><code>
-- name: Converge
+- name: sample playbook for role 'common'
   hosts: all
+  vars:
   tasks:
-
-    - name: "Include role 'ansible-role-common'"
+    - name: Include role 'common'
       include_role:
-        name: "ansible-role-common"
+        name: common
 </pre></code>
