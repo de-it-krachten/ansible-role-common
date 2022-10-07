@@ -15,7 +15,7 @@
     mode: '0755'
   loop: "{{ custom_facts }}"
   notify: Run setup
-  
+
 - name: Distribute specific custom facts
   ansible.builtin.template:
     src: "{{ item.name }}.fact.j2"

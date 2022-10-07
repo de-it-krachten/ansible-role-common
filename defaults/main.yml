@@ -1,6 +1,6 @@
 ---
 
-# default facts to distribute 
+# default facts to distribute
 custom_facts:
   - users
   - groups
