@@ -5,6 +5,15 @@
 
 Collection of smaller generic tasklist
 
+
+## Dependencies
+
+#### Roles
+None
+
+#### Collections
+- community.general
+
 ## Platforms
 
 Supported platforms
@@ -46,6 +55,7 @@ custom_facts_setup: true
 
 
 
+
 ## Example Playbook
 ### molecule/default/converge.yml
 <pre><code>
@@ -54,6 +64,6 @@ custom_facts_setup: true
   become: "{{ molecule['converge']['become'] | default('yes') }}"
   tasks:
     - name: Include role 'common'
-      include_role:
+      ansible.builtin.include_role:
         name: common
 </pre></code>
