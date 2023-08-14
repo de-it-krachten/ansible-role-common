@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.3.0...v1.4.0) (2023-08-14)
+
+
+### Features
+
+* Update supported platforms & CI ([df21d74](https://github.com/de-it-krachten/ansible-role-common/commit/df21d74e6b90d6914d58c4578187e208c74bd1cd))
+
 # [1.3.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.2.0...v1.3.0) (2022-10-12)
 
 
