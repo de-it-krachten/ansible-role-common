@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.4.0...v1.5.0) (2024-05-31)
+
+
+### Features
+
+* Add support for Ubuntu 24.04 LTS + Fedora 40 ([886f234](https://github.com/de-it-krachten/ansible-role-common/commit/886f2349d42ea09983e2dd86511ac2566a2d916b))
+
 # [1.4.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.3.0...v1.4.0) (2023-08-14)
 
 
