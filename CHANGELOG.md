@@ -1,3 +1,14 @@
+# [1.7.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.6.0...v1.7.0) (2025-08-06)
+
+
+### Features
+
+* Add support for AlmaLinux 10 ([9f9a850](https://github.com/de-it-krachten/ansible-role-common/commit/9f9a85007c51dd063ba69f254429b68b8804852a))
+* Add support for Debian 13 (Trixie) ([e6643e0](https://github.com/de-it-krachten/ansible-role-common/commit/e6643e007e42b7378c819c9a0a3e28af61512f34))
+* Add support for OracleLinux 10 ([3b69389](https://github.com/de-it-krachten/ansible-role-common/commit/3b6938958d723ae8e9e7ea41ecf534d155516d5c))
+* Add support for Red Hat Enterprise Linux 10 ([b5650a0](https://github.com/de-it-krachten/ansible-role-common/commit/b5650a0401148464e714957531d926186b1802b0))
+* Add support for RockyLinux 10 ([5c5cf6b](https://github.com/de-it-krachten/ansible-role-common/commit/5c5cf6be1a429cac8ddd92cb1da9997c4a270a16))
+
 # [1.6.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.5.0...v1.6.0) (2024-12-29)
 
 
