@@ -1,3 +1,14 @@
+# [1.8.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.7.0...v1.8.0) (2026-03-14)
+
+
+### Features
+
+* Added support for Fedora 43 ([1501359](https://github.com/de-it-krachten/ansible-role-common/commit/1501359910a86042775039d46c69972656d2fc80))
+* Drop support for Fedora 41 ([70eb106](https://github.com/de-it-krachten/ansible-role-common/commit/70eb106678a4441f40b240936e63d8296d183527))
+* Drop support for openSUSE Leap 15 ([fd43f78](https://github.com/de-it-krachten/ansible-role-common/commit/fd43f780a59e424f68ae1e9a3f6fc76a9bc33338))
+* Drop support for SUSE Linux Enterprise 15 ([afaad5e](https://github.com/de-it-krachten/ansible-role-common/commit/afaad5ef4876104ad06614ec2f31461887b33571))
+* Drop support for Ubuntu 20.04 LTS ([82c33d7](https://github.com/de-it-krachten/ansible-role-common/commit/82c33d74f917154434c48d3da1277c676d775430))
+
 # [1.7.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.6.0...v1.7.0) (2025-08-06)
 
 
