@@ -1,3 +1,12 @@
+# [1.9.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.8.0...v1.9.0) (2026-07-23)
+
+
+### Features
+
+* Added support for Fedora 44 ([f40acac](https://github.com/de-it-krachten/ansible-role-common/commit/f40acacb5dc97aa5dc9e196cbd4db05537e180f9))
+* Added support for Ubuntu 26.04 LTS ([12e058c](https://github.com/de-it-krachten/ansible-role-common/commit/12e058c152b00eb0c40aa4188ad106e6ef298ce2))
+* Drop support for Fedora 42 ([65b7591](https://github.com/de-it-krachten/ansible-role-common/commit/65b7591adb73a7fce02e4b848c54f30fbd78a443))
+
 # [1.8.0](https://github.com/de-it-krachten/ansible-role-common/compare/v1.7.0...v1.8.0) (2026-03-14)
 
 
